@@ -1,0 +1,2 @@
+console.log("%cEste es un mensage con estilo",
+"color:green; font-style:italic",);
